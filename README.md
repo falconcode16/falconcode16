@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=falconcode16)](https://github.com/falconcode16/github-readme-stats)
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=falconcode16&count_private=true)
+
 
 
 <!--
