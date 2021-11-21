@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=falconcode16)](https://github.com/falconcode16/github-readme-stats)
+
+
 <!--
 **falconcode16/falconcode16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
