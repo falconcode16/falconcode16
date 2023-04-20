@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=falconcode16&color=red" /> </p>
 
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=falconcode16&count_private=true)
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=falconcode16&show_icons=true&theme=radical)
