@@ -28,8 +28,7 @@ Computer Science pre-final year undergrad student
 
 </p>
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=falconcode16&count_private=true)
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=falconcode16&show_icons=true&theme=radical)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=falconcode16)](https://git.io/streak-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api/merko/?username=falconcode16&theme=tokyonight" />
 
