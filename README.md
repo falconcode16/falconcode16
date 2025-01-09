@@ -1,7 +1,7 @@
 Hi there👋 I'm Rohit Patil
 ===============================
 
-Computer Science pre-final year undergrad student
+Software Development | SRE | DevOps
 
 * 🌍  I'm based in India
 * 🖥️  See my Medium profile at [Rohit's Medium](https://medium.com/@rohitpatil1625)
